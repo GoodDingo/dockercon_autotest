@@ -3,4 +3,4 @@ MAINTAINER Mira Hedl
 
 RUN apt-get update && apt-get install -y tree
 
-CMD "echo Branching works"
+CMD "echo Branching for features work too"
